@@ -10,6 +10,7 @@ export default {
 </script>
 <style lang="sass" scoped>
 .app {
-  color: red;
+  color: white;
+  background: blue;
 }
 </style>
