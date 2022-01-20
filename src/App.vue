@@ -11,5 +11,6 @@ export default {
 <style lang="sass" scoped>
 .app {
   color: red;
+  font-size: 16px;
 }
 </style>
